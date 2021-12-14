@@ -1,0 +1,10 @@
+.container{
+    border: 5px solid black;
+    width: 100%;
+}
+.img-body{
+    background-image: url('/perro.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
